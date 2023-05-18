@@ -1,5 +1,4 @@
+fun main() {
+    println("Hello World!")
 
-public static void Main (string args[]) {
-    printf("Hello World!")
-    
 }
